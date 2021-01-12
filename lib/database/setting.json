@@ -1,0 +1,14 @@
+{
+  "limitCount": false,
+  "memberLimit": false,
+  "groupLimit": false,
+  "melodickey": "https://melodicxt.herokuapp.com/api",
+  "vhtearkey": "https://api.vhtear.com/",
+  "tobzkey": "https://tobz-api.herokuapp.com/",
+  "mhankbarbarkey": "https://mhankbarbars.herokuapp.com/",
+  "mtc": false,
+  "restartState": false,
+  "restartId": "undefined",
+  "banChats": false,
+  "Rest": true
+}
